@@ -1,0 +1,26 @@
+###############
+
+GPU: [0,1,2]
+
+VERBOSE: True
+
+MODEL:
+  MODE: 'Enhancement'
+  SESSION: 'LLCaps'
+
+# Optimization arguments.
+OPTIM:
+  BATCH_SIZE: 4
+  NUM_EPOCHS: 200
+  LR_INITIAL: 1e-4
+
+TRAINING:
+  TRAIN_PS: 256
+  VAL_PS: 256
+  RESUME: False
+
+  TRAIN_DIR: 'Kvasir_Capsule_LLIE/train'           # path to training data
+  VAL_DIR: 'Kvasir_Capsule_LLIE/eval'              # path to validation data
+  SAVE_DIR: './checkpoints/Kvasir_Capsule_LLIE'    # path to save models and images
+  SAVE_IMAGES: False
+  # VAL_AFTER_EVERY: 1
