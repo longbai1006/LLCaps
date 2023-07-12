@@ -43,7 +43,7 @@ pip install matplotlib scikit-image opencv-python yacs joblib natsort h5py tqdm
 ```
 
 ---
-## Dataset (will release after acceptance)
+## Dataset
 1. [Kvasir-Capsule Dataset](https://osf.io/dv2ag/)
     - [Low-light Image Pairs]() 
 2. [Red Lesion Endoscopy Dataset](https://rdm.inesctec.pt/dataset/nis-2018-003)
