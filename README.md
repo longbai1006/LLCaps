@@ -8,11 +8,17 @@
 
 <h4> Long Bai*, Tong Chen*, Yanan Wu, An Wang, Mobarakol Islam, and Hongliang Ren </h3>
 
+<h2> MICCAI 2023 (Oral) </h1>
+
 </samp>   
 
-</div>     
+| **[[```arXiv```](<https://arxiv.org/abs/2307.02452>)]** |
+|:-------------------:|
 
 ---
+
+
+</div>     
 
 If you find our code or paper useful, please cite as
 
