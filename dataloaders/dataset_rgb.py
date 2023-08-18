@@ -93,7 +93,7 @@ class DataLoaderTrainPatch(Dataset):
 
 ##################################################################################################
 class DataLoaderVal(Dataset):
-    def __init__(self, rgb_dir, target_transform=None):
+    def __init__(self, rgb_dir, img_options=None, target_transform=None):
         super(DataLoaderVal, self).__init__()
 
         self.target_transform = target_transform
