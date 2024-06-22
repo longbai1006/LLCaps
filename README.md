@@ -54,7 +54,7 @@ pip install matplotlib scikit-image opencv-python yacs joblib natsort h5py tqdm
     - [External Validation Set](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155161502_link_cuhk_edu_hk/EcmsZ2NJKSNDk-jKmpSfp1sB_2h1v-2ZlI9Bfu8v4Y4hIA?e=NS3gvE)
 2. [Red Lesion Endoscopy Dataset](https://rdm.inesctec.pt/dataset/nis-2018-003)
     - [Low-light Image Pairs](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155161502_link_cuhk_edu_hk/EZ_Dz7G4J4hBpDKn3YPng6cByGmdGt1z2Qd51fZsmv6DoA?e=aj6KlO)
-    - [RLE Segmentation Set](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155161502_link_cuhk_edu_hk/EeAhx_FEHLJMv1zXNb8oS_YBbN-Une6U7g2v2KOx2BYPcA?e=o73hOO)
+    - [RLE Segmentation Set](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155161502_link_cuhk_edu_hk/EeAhx_FEHLJMv1zXNb8oS_YBbN-Une6U7g2v2KOx2BYPcA?e=o73hOO) You may match the segmentation masks with the images by the filenames.
 ---
 
 
