@@ -50,9 +50,11 @@ pip install matplotlib scikit-image opencv-python yacs joblib natsort h5py tqdm
 ---
 ## Dataset
 1. [Kvasir-Capsule Dataset](https://osf.io/dv2ag/)
-    - [Low-light Image Pairs](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155161502_link_cuhk_edu_hk/EYtX3vMBWE1KizB1scvGOkgBzG4JW5SjTMAnJuxZTUAwdg?e=KJk1k2) 
+    - [Low-light Image Pairs](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155161502_link_cuhk_edu_hk/EYtX3vMBWE1KizB1scvGOkgBzG4JW5SjTMAnJuxZTUAwdg?e=KJk1k2)
+    - [External Validation Set](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155161502_link_cuhk_edu_hk/EcmsZ2NJKSNDk-jKmpSfp1sB_2h1v-2ZlI9Bfu8v4Y4hIA?e=NS3gvE)
 2. [Red Lesion Endoscopy Dataset](https://rdm.inesctec.pt/dataset/nis-2018-003)
-    - [Low-light Image Pairs](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155161502_link_cuhk_edu_hk/EZ_Dz7G4J4hBpDKn3YPng6cByGmdGt1z2Qd51fZsmv6DoA?e=aj6KlO) 
+    - [Low-light Image Pairs](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155161502_link_cuhk_edu_hk/EZ_Dz7G4J4hBpDKn3YPng6cByGmdGt1z2Qd51fZsmv6DoA?e=aj6KlO)
+    - [RLE Segmentation Set](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155161502_link_cuhk_edu_hk/EeAhx_FEHLJMv1zXNb8oS_YBbN-Une6U7g2v2KOx2BYPcA?e=o73hOO)
 ---
 
 
