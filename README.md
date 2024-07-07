@@ -6,7 +6,7 @@
 
 <h2> LLCaps: Learning to Illuminate Low-Light Capsule Endoscopy with Curved Wavelet Attention and Reverse Diffusion </h1>
 
-<h4> Long Bai*, Tong Chen*, Yanan Wu, An Wang, Mobarakol Islam, and Hongliang Ren </h3>
+<h4> Long Bai*, Tong Chen*, Yanan Wu, An Wang, Mobarakol Islam, Hongliang Ren </h3>
 
 <h3> Medical Image Computing and Computer Assisted Intervention (MICCAI) 2023 (Oral) </h2>
 
@@ -32,6 +32,7 @@ If you find our code, paper, or dataset useful, please cite the paper as
 }
 ```
 ---
+
 ## Abstract
 
 Wireless capsule endoscopy (WCE) is a painless and non-invasive diagnostic tool for gastrointestinal (GI) diseases. However, due to GI anatomical constraints and hardware manufacturing limitations, WCE vision signals may suffer from insufficient illumination, leading to a complicated screening and examination procedure. Deep learning-based low-light image enhancement (LLIE) in the medical field gradually attracts researchers. Given the exuberant development of the denoising diffusion probabilistic model (DDPM) in computer vision, we introduce a WCE LLIE framework based on the multi-scale convolutional neural network (CNN) and reverse diffusion process. The multi-scale design allows models to preserve high-resolution representation and context information from low-resolution, while the curved wavelet attention (CWA) block is proposed for high-frequency and local feature learning. Furthermore, we combine the reverse diffusion procedure to further optimize the shallow output and generate the most realistic image. The proposed method is compared with ten state-of-the-art (SOTA) LLIE methods and significantly outperforms quantitatively and qualitatively. The superior performance on GI disease segmentation further demonstrates the clinical potential of our proposed model.
