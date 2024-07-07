@@ -22,11 +22,13 @@
 If you find our code or paper useful, please cite as
 
 ```bibtex
-@article{bai2023llcaps,
-  title={LLCaps: Learning to Illuminate Low-Light Capsule Endoscopy with Curved Wavelet Attention and Reverse Diffusion},
+@inproceedings{bai2023llcaps,
+  title={LLCaps: Learning to illuminate low-light capsule endoscopy with curved wavelet attention and reverse diffusion},
   author={Bai, Long and Chen, Tong and Wu, Yanan and Wang, An and Islam, Mobarakol and Ren, Hongliang},
-  journal={arXiv preprint arXiv:2307.02452},
-  year={2023}
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={34--44},
+  year={2023},
+  organization={Springer}
 }
 ```
 ---
