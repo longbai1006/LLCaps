@@ -57,21 +57,6 @@ pip install matplotlib scikit-image opencv-python yacs joblib natsort h5py tqdm
     - [RLE Segmentation Set](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155161502_link_cuhk_edu_hk/EeAhx_FEHLJMv1zXNb8oS_YBbN-Une6U7g2v2KOx2BYPcA?e=ENUuTk) (You may match the segmentation masks with the images by the filenames.)
 ---
 
-
-## Installation
-For installation, follow these instructions
-```
-sudo apt-get install cmake build-essential libjpeg-dev libpng-dev
-conda create -n pytorch1 python=3.7
-conda activate pytorch1
-conda install pytorch=1.1 torchvision=0.3 cudatoolkit=9.0 -c pytorch
-pip install matplotlib scikit-image opencv-python yacs joblib natsort h5py tqdm
-cd pytorch-gradual-warmup-lr
-python setup.py install
-cd ..
-```
-
-
 ## Training
 
 Train your model with default arguments by running
