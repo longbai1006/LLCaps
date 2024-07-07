@@ -6,7 +6,7 @@
 
 <h2> LLCaps: Learning to Illuminate Low-Light Capsule Endoscopy with Curved Wavelet Attention and Reverse Diffusion </h1>
 
-<h4> Long Bai *, Tong Chen *, Yanan Wu, An Wang, Mobarakol Islam, and Hongliang Ren </h3>
+<h4> Long Bai*, Tong Chen*, Yanan Wu, An Wang, Mobarakol Islam, and Hongliang Ren </h3>
 
 <h3> Medical Image Computing and Computer Assisted Intervention (MICCAI) 2023 (Oral) </h2>
 
